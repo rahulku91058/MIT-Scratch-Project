@@ -14,14 +14,14 @@ http://mit-scratch-project-oc5ylkynn-rahulku91058s-projects.vercel.app/
 ## 🎥 Feature Demonstration
 
 📽️ **Screen Recording:**  
-[Google Drive - Watch Demo](https://drive.google.com/your-screen-recording-link)
+https://drive.google.com/file/d/14SdqCTXkoNJuJvatmDUp3FdySyjWOFjG/view?usp=drive_link
 
 ---
 
 ## 📁 Repository
 
 🗂️ **GitHub Repository:**  
-https://github.com/rahulku91058/MIT-Scratch-Project
+https://github.com/rahulku91058/MIT-Scratch-Project.git
 
 ---
 
