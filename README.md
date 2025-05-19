@@ -1,4 +1,4 @@
-# 🌿 Project Title: Krishi Mitra / CalmSpace (Choose Your Project Name)
+# 🌿 Project Title: MIT-Scratch-Project
 
 > A web-based application designed to [brief project purpose, e.g., help urban gardeners diagnose plant health or provide mental wellness support through AI].
 
