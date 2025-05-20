@@ -1,6 +1,6 @@
 # 🌿 Project Title: MIT-Scratch-Project
 
-> A web-based application designed to [brief project purpose, e.g., help urban gardeners diagnose plant health or provide mental wellness support through AI].
+> A simplified visual coding environment inspired by MIT Scratch. Built with **ReactJS** and **Tailwind CSS**, this project allows users to drag-and-drop motion and looks blocks to create animated scripts visually.
 
 ---
 
@@ -27,35 +27,24 @@ https://github.com/rahulku91058/MIT-Scratch-Project.git
 
 ## ✅ Features Implemented
 
-- 🌱 AI-powered [Plant Health Diagnosis / Stress Detection]
-- 💬 Integrated chatbot using Dialogflow
-- 🔍 Real-time analysis of user input
-- 📱 Responsive UI/UX with modern design
-- ☁️ Firebase backend / RESTful APIs
-- 🌐 Deployment via Netlify / Heroku / Vercel
+- 🧩 Drag-and-drop code blocks (Motion & Looks categories)
+- ✨ Visual Output area to simulate actions
+- 🗂️ Block execution with parameter inputs
+- 🖼️ Visual preview section with images
+- 🧹 Clean, modern UI with Tailwind styling
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 
-| Technology       | Purpose                         |
-|------------------|----------------------------------|
-| **React / Flutter** | Frontend Development             |
-| **Tailwind CSS** | UI Styling                       |
-| **Firebase / Spring Boot** | Backend & Database              |
-| **Google Perspective API** | Content moderation / analysis   |
-| **Dialogflow**   | Chatbot integration              |
-| **Netlify / Vercel** | Hosting and Deployment          |
+- ⚛️ React.js (Functional Components)
+- 🎨 Tailwind CSS
+- 🔧 HTML5 Drag and Drop API
+- 📦 NPM & Create React App
 
 ---
 
-## 📸 Screenshots
 
-_Add screenshots or a GIF here showing key features of your project._  
-Example:
-
-![Home Page](screenshots/home.png)  
-![Chatbot](screenshots/chatbot.png)
 
 ---
 
